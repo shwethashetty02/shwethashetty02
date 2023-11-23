@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shwethashetty02
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on AI
+- 👀 I’m interested in coding, content writing
+- 🌱 I’m currently learning Full Stack Development- 
 - 📫 How to reach me Shwethashetty1505@gmail.com
 
 <!---
